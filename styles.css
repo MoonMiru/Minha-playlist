@@ -1,0 +1,113 @@
+body {
+    color: #1f0e38;
+    background: #cac8ffb0;
+    margin: 0px;
+    font-family: "Playwrite DE Grund", cursive;
+    margin-bottom: 60px;
+
+}
+
+
+
+header {
+    border-bottom: dashed 3px #680000;
+    padding: 20px;
+    font-size: 32px;
+    color: #5c133b;
+
+
+}
+
+.chamada {
+
+    background: #b995cf;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+.chamada-texto {
+    margin-right: 8%;
+
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: -20px;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+    text-align: end;
+}
+
+
+.categoria-videos {
+    display: flex;
+    overflow-x:auto;
+    gap: 15px;
+    padding-bottom: 20px;
+    scroll-padding-left: 20px
+    
+    
+}
+
+
+.categoria {
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+.categoria h2 {
+    color: #1f0e38;
+}
+
+.categoria-videos img {
+    height: 162px;
+    border-radius: 10px;
+    
+
+
+}
+
+.categoria-videos img:hover {
+ 
+    border-bottom: 2px solid #680000;
+    border-top: 2px solid #680000;
+}
+.titulo2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    font-family: "Spline Sans Mono", monospace;
+    background-color: rgba(0, 0, 0, 0.096);
+    border-radius: 20px;
+    text-align:justify;
+    text-align: center;
+
+}
+
+.titulo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    font-family: "Spline Sans Mono", monospace;
+    background-color: rgba(0, 0, 0, 0.096);
+    border-radius: 20px;
+    text-align:justify;
+    text-align: center;
+    letter-spacing: -1px;
+   
+
+}
